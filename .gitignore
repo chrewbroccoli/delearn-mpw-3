@@ -1,2 +1,4 @@
 /.venv/
 .env
+/captioning_starter/data/images/
+/captioning_starter/data.zip
